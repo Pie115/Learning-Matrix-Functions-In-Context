@@ -11,7 +11,7 @@ import re
 class Generate_Prompt:
 
     # Configure Gemini API with API key given by  user
-    def __init__(self, key="AIzaSyCM6l0fyZZPQsSJ9woo2vgtIrVf_tpRyh4"):
+    def __init__(self, key=""):
         self.key = key
         genai.configure(api_key=self.key)
 
