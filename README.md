@@ -1,4 +1,4 @@
-#Learning Matrix Functions In Context
+# Learning Matrix Functions In Context
 
 Code used in our experiments. Main code for generating Gemini and Open Source Model Data can be found in updated scripts folder, particularly the generate_class folder. Code for plots, as well as evaluation on non LLM models 
 can be found in the all notebooks folder. 
